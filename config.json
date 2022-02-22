@@ -4,14 +4,14 @@
   "name": null,
   "userimg": "https://avatars.githubusercontent.com/u/64832927?v=4",
   "sort": "star",
-  "order": "asc",
+  "order": "desc",
   "includeFork": true,
   "theme": "dark.css",
   "types": [
    "owner"
   ],
-  "twitter": null,
-  "linkedin": null,
+  "twitter": "kvCrag",
+  "linkedin": "KelvinCrag",
   "medium": null,
   "dribbble": null
  }
