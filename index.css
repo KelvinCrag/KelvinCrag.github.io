@@ -554,13 +554,13 @@ body {
       rgba(10, 10, 10, 0.3),
       rgb(10, 10, 10, 1)
     ),
-    url("https://telegra.ph/file/c09f9bf04410939bab7b9.jpg");
+    url("https://telegra.ph/file/4140a5d9024dccfd79abf.jpg");
   --background-background: linear-gradient(
       0deg,
       rgba(10, 10, 10, 1),
       rgba(10, 10, 10, 0.6)
     ),
-    url("https://telegra.ph/file/c09f9bf04410939bab7b9.jpg") center center fixed;
+    url("https://telegra.ph/file/4140a5d9024dccfd79abf.jpg") center center fixed;
   --height: 50vh;
 }
 
@@ -591,6 +591,6 @@ body {
         rgba(10, 10, 10, 1),
         rgba(10, 10, 10, 0)
       ),
-      url("https://telegra.ph/file/c09f9bf04410939bab7b9.jpg") !important;
+      url("https://telegra.ph/file/4140a5d9024dccfd79abf.jpg") !important;
   }
 }
